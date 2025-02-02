@@ -12,6 +12,11 @@ Node version: node v20.17.0 (npm v10.8.2)
     .gitignore -> With this data:
                 node_modules
                 .gitignore
+
+
+STEPS TO RUN:
+    npm install
+    npm test -> To run the test cases
     
 
 
