@@ -21,5 +21,5 @@ test("should handle \n for new line", () => {
 })
 
 test("should handle miscellenous delimiters", () => {
-    expect(add("//;\n1;2")).toBe(6);
+    expect(add("//;\n1;2")).toBe(3);
 })
