@@ -19,3 +19,7 @@ test("should return sum of multiple comma-separated numbers", () => {
 test("should handle \n for new line", () => {
     expect(add("1\n2,3")).toBe(6);
 })
+
+test("should handle miscellenous delimiters", () => {
+    expect(add("//;\n1;2")).toBe(6);
+})
