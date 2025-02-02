@@ -1,0 +1,26 @@
+{
+  "name": "string_calculator",
+  "version": "1.0.0",
+  "description": "String Calculator: TDD ",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singheiti22/String_Calculator.git"
+  },
+  "keywords": [
+    "String",
+    "Calculator"
+  ],
+  "author": "Eiti Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singheiti22/String_Calculator/issues"
+  },
+  "homepage": "https://github.com/singheiti22/String_Calculator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
